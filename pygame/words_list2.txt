@@ -40,7 +40,8 @@ griovys
 kelias
 gatvė
 tiltas
-oro uostas
+oras
+uostas
 traukinys
 autobusas
 automobilis
@@ -91,19 +92,22 @@ muziejus
 galerija
 bankas
 parduotuvė
-prekybos centras
+prekyba
+centras
 restoranas
 kavinė
 baras
 viešbutis
-svečių namai
+svečias
+namai
 stovyklavietė
 namai
 butas
 kambarys
 virtuvė
 vonia
-vonios kambarys
+vonia
+kambarys
 tualetas
 balkonas
 terasa
@@ -136,6 +140,8 @@ krautuvė
 šaldytuvas
 šaldiklis
 orkaitė
-mikrobangų krosnelė
+mikrobangos
+krosnelė
 indaplovė
-skalbimo mašina
+skalbimas
+mašina
